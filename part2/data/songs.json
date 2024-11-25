@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Stan",
+        "artist": "Eminem ft. Dido",
+        "release_year": 2000,
+        "instrument": "Piano",
+        "instrument_brand": "Yamaha"
+    },
+    {
+        "title": "In the End",
+        "artist": "Linkin Park",
+        "release_year": 2001,
+        "instrument": "Piano",
+        "instrument_brand": "Korg"
+    },
+    {
+        "title": "We Will Rock You",
+        "artist": "Queen",
+        "release_year": 1977,
+        "instrument": "Drum",
+        "instrument_brand": "Ludwig"
+    },
+    {
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "release_year": 2010,
+        "instrument": "Piano",
+        "instrument_brand": "Bösendorfer"
+    },
+    {
+        "title": "Take Me to Church",
+        "artist": "Hozier",
+        "release_year": 2013,
+        "instrument": "Piano",
+        "instrument_brand": "Roland"
+    }
+]
